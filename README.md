@@ -1,4 +1,4 @@
-Hey! 👋 I'm Gleb Tsereteli, a full-time GameMaker programmer based in Finland. I've been working in GameMaker since 2019 as a contractor on numerous games. Beyond client work, a big focus of mine is building [Free and Open Source](https://en.wikipedia.org/wiki/Free_and_open-source_software) libraries to help other developers.
+Hey! 👋 I'm Gleb Tsereteli, a full-time GameMaker programmer based in Finland. I've been working in GameMaker since 2019, doing contract work on numerous games. Beyond client work, a big focus of mine is building [Free and Open Source](https://en.wikipedia.org/wiki/Free_and_open-source_software) libraries to help other devs.
 
 You might know me from my library [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader), which won Best Tool at the [2025 GameMaker Awards](https://gamemaker.io/en/blog/gamemaker-awards-2025#:~:text=Best%20Tool%3A%C2%A0GMRoomLoader%C2%A0%2D%20Gleb%20Tsereteli).
 
