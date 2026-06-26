@@ -2,7 +2,7 @@ Hey! 👋 I'm Gleb Tsereteli, a full-time GameMaker programmer based in Finland.
 
 You might know me from my library [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader), which won Best Tool at the [2025 GameMaker Awards](https://gamemaker.io/en/blog/gamemaker-awards-2025#:~:text=Best%20Tool%3A%C2%A0GMRoomLoader%C2%A0%2D%20Gleb%20Tsereteli).
 
-Come join us on the [GameMaker Kitchen](https://discord.com/invite/RDYyRqBswD) Discord server if you need help with my libraries, or just want to hang out with the open source GameMaker community.
+Come join us on the [GameMaker Kitchen](https://discord.com/invite/RDYyRqBswD) Discord server to get help with my libraries and hang out with the open source GameMaker community.
 
 ## GameMaker Libraries
 
